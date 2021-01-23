@@ -1,0 +1,15 @@
+C:\C#_Repository\2-1_DataTypes_Strings\2-1_DataTypes_Strings\bin\Debug\netcoreapp3.1\2-1_DataTypes_Strings.exe
+C:\C#_Repository\2-1_DataTypes_Strings\2-1_DataTypes_Strings\bin\Debug\netcoreapp3.1\2-1_DataTypes_Strings.deps.json
+C:\C#_Repository\2-1_DataTypes_Strings\2-1_DataTypes_Strings\bin\Debug\netcoreapp3.1\2-1_DataTypes_Strings.runtimeconfig.json
+C:\C#_Repository\2-1_DataTypes_Strings\2-1_DataTypes_Strings\bin\Debug\netcoreapp3.1\2-1_DataTypes_Strings.runtimeconfig.dev.json
+C:\C#_Repository\2-1_DataTypes_Strings\2-1_DataTypes_Strings\bin\Debug\netcoreapp3.1\2-1_DataTypes_Strings.dll
+C:\C#_Repository\2-1_DataTypes_Strings\2-1_DataTypes_Strings\bin\Debug\netcoreapp3.1\2-1_DataTypes_Strings.pdb
+C:\C#_Repository\2-1_DataTypes_Strings\2-1_DataTypes_Strings\obj\Debug\netcoreapp3.1\2-1_DataTypes_Strings.csprojAssemblyReference.cache
+C:\C#_Repository\2-1_DataTypes_Strings\2-1_DataTypes_Strings\obj\Debug\netcoreapp3.1\_2_1_DataTypes_Strings.Form1.resources
+C:\C#_Repository\2-1_DataTypes_Strings\2-1_DataTypes_Strings\obj\Debug\netcoreapp3.1\2-1_DataTypes_Strings.csproj.GenerateResource.cache
+C:\C#_Repository\2-1_DataTypes_Strings\2-1_DataTypes_Strings\obj\Debug\netcoreapp3.1\2-1_DataTypes_Strings.AssemblyInfoInputs.cache
+C:\C#_Repository\2-1_DataTypes_Strings\2-1_DataTypes_Strings\obj\Debug\netcoreapp3.1\2-1_DataTypes_Strings.AssemblyInfo.cs
+C:\C#_Repository\2-1_DataTypes_Strings\2-1_DataTypes_Strings\obj\Debug\netcoreapp3.1\2-1_DataTypes_Strings.csproj.CoreCompileInputs.cache
+C:\C#_Repository\2-1_DataTypes_Strings\2-1_DataTypes_Strings\obj\Debug\netcoreapp3.1\2-1_DataTypes_Strings.dll
+C:\C#_Repository\2-1_DataTypes_Strings\2-1_DataTypes_Strings\obj\Debug\netcoreapp3.1\2-1_DataTypes_Strings.pdb
+C:\C#_Repository\2-1_DataTypes_Strings\2-1_DataTypes_Strings\obj\Debug\netcoreapp3.1\2-1_DataTypes_Strings.genruntimeconfig.cache
