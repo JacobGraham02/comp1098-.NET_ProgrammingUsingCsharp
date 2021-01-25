@@ -1,0 +1,15 @@
+C:\C#_Repository\2-1_PigLatinTranslator\bin\Debug\netcoreapp3.1\2-1_PigLatinTranslator.exe
+C:\C#_Repository\2-1_PigLatinTranslator\bin\Debug\netcoreapp3.1\2-1_PigLatinTranslator.deps.json
+C:\C#_Repository\2-1_PigLatinTranslator\bin\Debug\netcoreapp3.1\2-1_PigLatinTranslator.runtimeconfig.json
+C:\C#_Repository\2-1_PigLatinTranslator\bin\Debug\netcoreapp3.1\2-1_PigLatinTranslator.runtimeconfig.dev.json
+C:\C#_Repository\2-1_PigLatinTranslator\bin\Debug\netcoreapp3.1\2-1_PigLatinTranslator.dll
+C:\C#_Repository\2-1_PigLatinTranslator\bin\Debug\netcoreapp3.1\2-1_PigLatinTranslator.pdb
+C:\C#_Repository\2-1_PigLatinTranslator\obj\Debug\netcoreapp3.1\_2_1_PigLatinTranslator.Form1.resources
+C:\C#_Repository\2-1_PigLatinTranslator\obj\Debug\netcoreapp3.1\2-1_PigLatinTranslator.csproj.GenerateResource.cache
+C:\C#_Repository\2-1_PigLatinTranslator\obj\Debug\netcoreapp3.1\2-1_PigLatinTranslator.AssemblyInfoInputs.cache
+C:\C#_Repository\2-1_PigLatinTranslator\obj\Debug\netcoreapp3.1\2-1_PigLatinTranslator.AssemblyInfo.cs
+C:\C#_Repository\2-1_PigLatinTranslator\obj\Debug\netcoreapp3.1\2-1_PigLatinTranslator.csproj.CoreCompileInputs.cache
+C:\C#_Repository\2-1_PigLatinTranslator\obj\Debug\netcoreapp3.1\2-1_PigLatinTranslator.dll
+C:\C#_Repository\2-1_PigLatinTranslator\obj\Debug\netcoreapp3.1\2-1_PigLatinTranslator.pdb
+C:\C#_Repository\2-1_PigLatinTranslator\obj\Debug\netcoreapp3.1\2-1_PigLatinTranslator.genruntimeconfig.cache
+C:\C#_Repository\2-1_PigLatinTranslator\obj\Debug\netcoreapp3.1\2-1_PigLatinTranslator.csprojAssemblyReference.cache
