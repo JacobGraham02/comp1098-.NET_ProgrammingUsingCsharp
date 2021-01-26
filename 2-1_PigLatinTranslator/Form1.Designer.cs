@@ -47,6 +47,7 @@ namespace _2_1_PigLatinTranslator
             this.txtPigLatin.Location = new System.Drawing.Point(12, 235);
             this.txtPigLatin.Multiline = true;
             this.txtPigLatin.Name = "txtPigLatin";
+            this.txtPigLatin.ReadOnly = true;
             this.txtPigLatin.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.txtPigLatin.Size = new System.Drawing.Size(700, 150);
             this.txtPigLatin.TabIndex = 1;
@@ -107,7 +108,6 @@ namespace _2_1_PigLatinTranslator
             this.txtEnglish.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.txtEnglish.Size = new System.Drawing.Size(700, 150);
             this.txtEnglish.TabIndex = 5;
-            this.txtEnglish.TextChanged += new System.EventHandler(this.txtEnglish_TextChanged);
             // 
             // tabControl1
             // 
@@ -134,7 +134,7 @@ namespace _2_1_PigLatinTranslator
             this.tabPage2.Location = new System.Drawing.Point(4, 24);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(0, 0);
+            this.tabPage2.Size = new System.Drawing.Size(0, -20);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "tabPage2";
             this.tabPage2.UseVisualStyleBackColor = true;
