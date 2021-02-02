@@ -1,0 +1,15 @@
+C:\visualStudioC#Applications\InvoiceTotal\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.exe
+C:\visualStudioC#Applications\InvoiceTotal\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.deps.json
+C:\visualStudioC#Applications\InvoiceTotal\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.runtimeconfig.json
+C:\visualStudioC#Applications\InvoiceTotal\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.runtimeconfig.dev.json
+C:\visualStudioC#Applications\InvoiceTotal\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.dll
+C:\visualStudioC#Applications\InvoiceTotal\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.pdb
+C:\visualStudioC#Applications\InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.csprojAssemblyReference.cache
+C:\visualStudioC#Applications\InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.csproj.GenerateResource.cache
+C:\visualStudioC#Applications\InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.AssemblyInfoInputs.cache
+C:\visualStudioC#Applications\InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.AssemblyInfo.cs
+C:\visualStudioC#Applications\InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.csproj.CoreCompileInputs.cache
+C:\visualStudioC#Applications\InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.dll
+C:\visualStudioC#Applications\InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.pdb
+C:\visualStudioC#Applications\InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.genruntimeconfig.cache
+C:\visualStudioC#Applications\InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.frmInvoiceTotal.resources
