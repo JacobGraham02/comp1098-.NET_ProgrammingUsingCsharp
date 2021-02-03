@@ -10,11 +10,21 @@ using System.Windows.Forms;
 
 namespace _2_2_MaintainStudentScores
 {
-    public partial class Form1 : Form
+    public partial class frmAddScore : Form
     {
-        public Form1()
+        public frmAddScore()
         {
             InitializeComponent();
+        }
+
+        private void frmAddScore_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnCancelAddScore_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

@@ -110,10 +110,12 @@ namespace PaymentForm
             Form paymentForm = new frmPayments();
             DialogResult selectedButton = paymentForm.ShowDialog();
             
+            /*
             if (selectedButton == DialogResult.OK)
             {
                 lblPayment.Text = (string)paymentForm.Tag;
-            }
+            } 
+            */
         }
     }
 }

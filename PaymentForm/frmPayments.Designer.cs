@@ -66,6 +66,7 @@ namespace PaymentForm
             this.groupBoxBilling.TabIndex = 1;
             this.groupBoxBilling.TabStop = false;
             this.groupBoxBilling.Text = "Billing";
+            this.groupBoxBilling.Enter += new System.EventHandler(this.groupBoxBilling_Enter);
             // 
             // rdoBillCustomer
             // 

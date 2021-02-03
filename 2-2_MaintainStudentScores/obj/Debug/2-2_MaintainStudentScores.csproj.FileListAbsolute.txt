@@ -1,0 +1,14 @@
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\2-2_MaintainStudentScores\bin\Debug\2-2_MaintainStudentScores.exe.config
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\2-2_MaintainStudentScores\bin\Debug\2-2_MaintainStudentScores.exe
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\2-2_MaintainStudentScores\bin\Debug\2-2_MaintainStudentScores.pdb
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\2-2_MaintainStudentScores\obj\Debug\2-2_MaintainStudentScores.csprojAssemblyReference.cache
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\2-2_MaintainStudentScores\obj\Debug\_2_2_MaintainStudentScores.frmAddNewStudent.resources
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\2-2_MaintainStudentScores\obj\Debug\_2_2_MaintainStudentScores.frmStudentScores.resources
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\2-2_MaintainStudentScores\obj\Debug\_2_2_MaintainStudentScores.Properties.Resources.resources
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\2-2_MaintainStudentScores\obj\Debug\2-2_MaintainStudentScores.csproj.GenerateResource.cache
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\2-2_MaintainStudentScores\obj\Debug\2-2_MaintainStudentScores.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\2-2_MaintainStudentScores\obj\Debug\2-2_MaintainStudentScores.exe
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\2-2_MaintainStudentScores\obj\Debug\2-2_MaintainStudentScores.pdb
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\2-2_MaintainStudentScores\obj\Debug\_2_2_MaintainStudentScores.frmAddScore.resources
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\2-2_MaintainStudentScores\obj\Debug\_2_2_MaintainStudentScores.frmUpdateScore.resources
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\2-2_MaintainStudentScores\obj\Debug\_2_2_MaintainStudentScores.frmUpdateStudentScores.resources

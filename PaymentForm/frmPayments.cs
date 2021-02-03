@@ -168,5 +168,9 @@ namespace PaymentForm
             cboExpirationYear.Enabled = false;
         }
 
+        private void groupBoxBilling_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }
