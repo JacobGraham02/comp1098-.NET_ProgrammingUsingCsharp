@@ -101,19 +101,19 @@ namespace _2_2_MaintainStudentScores
 
         private void btnRemoveScoreSelected_Click(object sender, EventArgs e)
         {
+            if (lstBoxScores.SelectedIndex < 0)
+            {
+                MessageBox.Show("Please select an index to remove", "Removal Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
             if (lstBoxScores.Items.Count > 0)
             {
                 lstBoxScores.Items.RemoveAt(lstBoxScores.SelectedIndex);
             }
-            if (lstBoxScores.SelectedIndex == -1) 
-            {
-                MessageBox.Show("You must select a score to remove", "Removal Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                return;
-            }
             else
             {
-                MessageBox.Show("You must have a score to remove", "Removal Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                return;
+                MessageBox.Show("You must have some scores that can be removed", "Removal Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 

@@ -1,0 +1,11 @@
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\BookProduceMaintenance\bin\Debug\BookProduceMaintenance.exe.config
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\BookProduceMaintenance\bin\Debug\BookProduceMaintenance.exe
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\BookProduceMaintenance\bin\Debug\BookProduceMaintenance.pdb
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\BookProduceMaintenance\obj\Debug\BookProductMaintenance.csprojAssemblyReference.cache
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\BookProduceMaintenance\obj\Debug\BookProduceMaintenance.frmNewProduct.resources
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\BookProduceMaintenance\obj\Debug\BookProduceMaintenance.frmProductMaintenance.resources
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\BookProduceMaintenance\obj\Debug\BookProduceMaintenance.Properties.Resources.resources
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\BookProduceMaintenance\obj\Debug\BookProductMaintenance.csproj.GenerateResource.cache
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\BookProduceMaintenance\obj\Debug\BookProductMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\BookProduceMaintenance\obj\Debug\BookProduceMaintenance.exe
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\BookProduceMaintenance\obj\Debug\BookProduceMaintenance.pdb
