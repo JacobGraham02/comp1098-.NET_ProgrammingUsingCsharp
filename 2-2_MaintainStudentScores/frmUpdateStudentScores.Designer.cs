@@ -103,6 +103,7 @@ namespace _2_2_MaintainStudentScores
             this.btnRemoveScoreSelected.TabIndex = 6;
             this.btnRemoveScoreSelected.Text = "Remove";
             this.btnRemoveScoreSelected.UseVisualStyleBackColor = true;
+            this.btnRemoveScoreSelected.Click += new System.EventHandler(this.btnRemoveScoreSelected_Click);
             // 
             // btnClearScoreList
             // 
@@ -112,6 +113,7 @@ namespace _2_2_MaintainStudentScores
             this.btnClearScoreList.TabIndex = 7;
             this.btnClearScoreList.Text = "Clear Scores";
             this.btnClearScoreList.UseVisualStyleBackColor = true;
+            this.btnClearScoreList.Click += new System.EventHandler(this.btnClearScoreList_Click);
             // 
             // btnOkUpdateStudentScores
             // 
@@ -121,6 +123,7 @@ namespace _2_2_MaintainStudentScores
             this.btnOkUpdateStudentScores.TabIndex = 8;
             this.btnOkUpdateStudentScores.Text = "Ok";
             this.btnOkUpdateStudentScores.UseVisualStyleBackColor = true;
+            this.btnOkUpdateStudentScores.Click += new System.EventHandler(this.btnOkUpdateStudentScores_Click);
             // 
             // btnCancel
             // 
@@ -150,6 +153,7 @@ namespace _2_2_MaintainStudentScores
             this.Name = "frmUpdateStudentScores";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Update student scores";
+            this.Load += new System.EventHandler(this.frmUpdateStudentScores_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

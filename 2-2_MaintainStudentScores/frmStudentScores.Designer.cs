@@ -91,6 +91,7 @@ namespace _2_2_MaintainStudentScores
             this.btnDelete.TabIndex = 4;
             this.btnDelete.Text = "&Delete";
             this.btnDelete.UseVisualStyleBackColor = true;
+            this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
             // 
             // lblScoreTotal
             // 
@@ -126,7 +127,6 @@ namespace _2_2_MaintainStudentScores
             this.lblScoreTotalResult.Name = "lblScoreTotalResult";
             this.lblScoreTotalResult.Size = new System.Drawing.Size(100, 23);
             this.lblScoreTotalResult.TabIndex = 8;
-            this.lblScoreTotalResult.Click += new System.EventHandler(this.lblScoreTotalResult_Click);
             // 
             // lblScoreCountResult
             // 
@@ -135,7 +135,6 @@ namespace _2_2_MaintainStudentScores
             this.lblScoreCountResult.Name = "lblScoreCountResult";
             this.lblScoreCountResult.Size = new System.Drawing.Size(100, 23);
             this.lblScoreCountResult.TabIndex = 9;
-            this.lblScoreCountResult.Click += new System.EventHandler(this.lblScoreCountResult_Click);
             // 
             // lblAverageResult
             // 
@@ -143,11 +142,11 @@ namespace _2_2_MaintainStudentScores
             this.lblAverageResult.Location = new System.Drawing.Point(161, 244);
             this.lblAverageResult.Name = "lblAverageResult";
             this.lblAverageResult.Size = new System.Drawing.Size(100, 23);
-            this.lblAverageResult.TabIndex = 10;
-            this.lblAverageResult.Click += new System.EventHandler(this.lblAverageResult_Click);
+            this.lblAverageResult.TabIndex = 12;
             // 
             // btnStudentScoresExit
             // 
+            this.btnStudentScoresExit.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnStudentScoresExit.Location = new System.Drawing.Point(293, 244);
             this.btnStudentScoresExit.Name = "btnStudentScoresExit";
             this.btnStudentScoresExit.Size = new System.Drawing.Size(75, 23);
@@ -160,6 +159,7 @@ namespace _2_2_MaintainStudentScores
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.CancelButton = this.btnStudentScoresExit;
             this.ClientSize = new System.Drawing.Size(413, 300);
             this.Controls.Add(this.btnStudentScoresExit);
             this.Controls.Add(this.lblAverageResult);

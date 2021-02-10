@@ -59,6 +59,7 @@ namespace _2_2_MaintainStudentScores
             this.btnUpdateScore.TabIndex = 2;
             this.btnUpdateScore.Text = "Update";
             this.btnUpdateScore.UseVisualStyleBackColor = true;
+            this.btnUpdateScore.Click += new System.EventHandler(this.btnUpdateScore_Click);
             // 
             // btnCancelScore
             // 
@@ -82,6 +83,7 @@ namespace _2_2_MaintainStudentScores
             this.Name = "frmUpdateScore";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Update Score";
+            this.Load += new System.EventHandler(this.frmUpdateScore_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

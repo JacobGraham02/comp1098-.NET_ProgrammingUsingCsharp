@@ -1,0 +1,31 @@
+Lab 1 - Selecting Data
+
+For this Lab you must select data from your database and output the data in a grid of rows and columns using HTML table tags.
+
+To Complete the Lab:
+
+1. Connect to the AWS VPN via OpenVPN (Windows) or Tunnelblick (Mac).
+
+2. Open MySQL Workbench and connect to your AWS database (instructions on D2L in Weekly Learning / Tools and Resources).
+
+3. Run the following SQL commands:
+
+USE your-dbname-here;
+
+CREATE TABLE relatives (
+relativeId INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+name VARCHAR(50) NOT NULL,
+age INT NOT NULL,
+occupation VARCHAR(50) NOT NULL);
+
+4. For each member of your nuclear family or household including yourself (feel free to include grandparents and pets) run the following SQL command, replacing the 'name-here', age-here, and 'occupation-here' values with the actual first names, ages, and occupations of your family members:
+
+INSERT INTO relatives (name, age, occupation) VALUES ('name-here', age-here, 'occupation-here');
+
+5. Build lab1.php that displays an HTML table with a header row and a table row for each family member in your relatives table, retreived from your database in a loop.  The table should have 3 columns (you don't need to display the relativeId column).
+
+6. First test your page on your local web server using XAMPP / MAMP
+
+7. Upload your page to the AWS web server (instructions on D2L) so it loads at https://lamp.computerstudi.es/~username-here/comp1006/lab1.php
+
+8. Submit your lab1.php file as well as the link to your page on the AWS server on D2L.

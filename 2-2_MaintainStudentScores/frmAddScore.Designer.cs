@@ -59,6 +59,7 @@ namespace _2_2_MaintainStudentScores
             this.btnAddScore.TabIndex = 2;
             this.btnAddScore.Text = "Add";
             this.btnAddScore.UseVisualStyleBackColor = true;
+            this.btnAddScore.Click += new System.EventHandler(this.btnAddScore_Click);
             // 
             // btnCancelAddScore
             // 

@@ -67,7 +67,6 @@ namespace _2_2_MaintainStudentScores
             this.lblMultipleScores.Size = new System.Drawing.Size(43, 13);
             this.lblMultipleScores.TabIndex = 2;
             this.lblMultipleScores.Text = "Scores:";
-            this.lblMultipleScores.Click += new System.EventHandler(this.label3_Click);
             // 
             // txtName
             // 
@@ -75,6 +74,7 @@ namespace _2_2_MaintainStudentScores
             this.txtName.Name = "txtName";
             this.txtName.Size = new System.Drawing.Size(182, 20);
             this.txtName.TabIndex = 1;
+            this.txtName.TextChanged += new System.EventHandler(this.txtName_TextChanged);
             // 
             // txtSingleScore
             // 
@@ -114,6 +114,7 @@ namespace _2_2_MaintainStudentScores
             // 
             // btnCancelForAddStudent
             // 
+            this.btnCancelForAddStudent.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnCancelForAddStudent.Location = new System.Drawing.Point(186, 175);
             this.btnCancelForAddStudent.Name = "btnCancelForAddStudent";
             this.btnCancelForAddStudent.Size = new System.Drawing.Size(75, 23);
@@ -124,6 +125,7 @@ namespace _2_2_MaintainStudentScores
             // 
             // btnOkForAddStudent
             // 
+            this.btnOkForAddStudent.DialogResult = System.Windows.Forms.DialogResult.OK;
             this.btnOkForAddStudent.Location = new System.Drawing.Point(79, 175);
             this.btnOkForAddStudent.Name = "btnOkForAddStudent";
             this.btnOkForAddStudent.Size = new System.Drawing.Size(75, 23);
@@ -134,8 +136,10 @@ namespace _2_2_MaintainStudentScores
             // 
             // frmAddNewStudent
             // 
+            this.AcceptButton = this.btnOkForAddStudent;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.CancelButton = this.btnCancelForAddStudent;
             this.ClientSize = new System.Drawing.Size(307, 237);
             this.Controls.Add(this.btnOkForAddStudent);
             this.Controls.Add(this.btnCancelForAddStudent);

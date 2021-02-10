@@ -21,5 +21,15 @@ namespace _2_2_MaintainStudentScores
         {
             this.Close();
         }
+
+        private void btnUpdateScore_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void frmUpdateScore_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
