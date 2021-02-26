@@ -1,0 +1,32 @@
+E:\WINTER 2021\COMP 1098 C#\c7instfiles\C#\Instructors\Projects\Project Solutions\Project 3-2 (TicketingSystem)\TicketingSystem\bin\Debug\netcoreapp3.1\TicketingSystem.exe
+E:\WINTER 2021\COMP 1098 C#\c7instfiles\C#\Instructors\Projects\Project Solutions\Project 3-2 (TicketingSystem)\TicketingSystem\bin\Debug\netcoreapp3.1\TicketingSystem.deps.json
+E:\WINTER 2021\COMP 1098 C#\c7instfiles\C#\Instructors\Projects\Project Solutions\Project 3-2 (TicketingSystem)\TicketingSystem\bin\Debug\netcoreapp3.1\TicketingSystem.runtimeconfig.json
+E:\WINTER 2021\COMP 1098 C#\c7instfiles\C#\Instructors\Projects\Project Solutions\Project 3-2 (TicketingSystem)\TicketingSystem\bin\Debug\netcoreapp3.1\TicketingSystem.runtimeconfig.dev.json
+E:\WINTER 2021\COMP 1098 C#\c7instfiles\C#\Instructors\Projects\Project Solutions\Project 3-2 (TicketingSystem)\TicketingSystem\bin\Debug\netcoreapp3.1\TicketingSystem.dll
+E:\WINTER 2021\COMP 1098 C#\c7instfiles\C#\Instructors\Projects\Project Solutions\Project 3-2 (TicketingSystem)\TicketingSystem\bin\Debug\netcoreapp3.1\TicketingSystem.pdb
+E:\WINTER 2021\COMP 1098 C#\c7instfiles\C#\Instructors\Projects\Project Solutions\Project 3-2 (TicketingSystem)\TicketingSystem\obj\Debug\netcoreapp3.1\TicketingSystem.csprojAssemblyReference.cache
+E:\WINTER 2021\COMP 1098 C#\c7instfiles\C#\Instructors\Projects\Project Solutions\Project 3-2 (TicketingSystem)\TicketingSystem\obj\Debug\netcoreapp3.1\TicketingSystem.frmOptions.resources
+E:\WINTER 2021\COMP 1098 C#\c7instfiles\C#\Instructors\Projects\Project Solutions\Project 3-2 (TicketingSystem)\TicketingSystem\obj\Debug\netcoreapp3.1\TicketingSystem.frmTicketing.resources
+E:\WINTER 2021\COMP 1098 C#\c7instfiles\C#\Instructors\Projects\Project Solutions\Project 3-2 (TicketingSystem)\TicketingSystem\obj\Debug\netcoreapp3.1\TicketingSystem.csproj.GenerateResource.cache
+E:\WINTER 2021\COMP 1098 C#\c7instfiles\C#\Instructors\Projects\Project Solutions\Project 3-2 (TicketingSystem)\TicketingSystem\obj\Debug\netcoreapp3.1\TicketingSystem.AssemblyInfoInputs.cache
+E:\WINTER 2021\COMP 1098 C#\c7instfiles\C#\Instructors\Projects\Project Solutions\Project 3-2 (TicketingSystem)\TicketingSystem\obj\Debug\netcoreapp3.1\TicketingSystem.AssemblyInfo.cs
+E:\WINTER 2021\COMP 1098 C#\c7instfiles\C#\Instructors\Projects\Project Solutions\Project 3-2 (TicketingSystem)\TicketingSystem\obj\Debug\netcoreapp3.1\TicketingSystem.csproj.CoreCompileInputs.cache
+E:\WINTER 2021\COMP 1098 C#\c7instfiles\C#\Instructors\Projects\Project Solutions\Project 3-2 (TicketingSystem)\TicketingSystem\obj\Debug\netcoreapp3.1\TicketingSystem.dll
+E:\WINTER 2021\COMP 1098 C#\c7instfiles\C#\Instructors\Projects\Project Solutions\Project 3-2 (TicketingSystem)\TicketingSystem\obj\Debug\netcoreapp3.1\TicketingSystem.pdb
+E:\WINTER 2021\COMP 1098 C#\c7instfiles\C#\Instructors\Projects\Project Solutions\Project 3-2 (TicketingSystem)\TicketingSystem\obj\Debug\netcoreapp3.1\TicketingSystem.genruntimeconfig.cache
+C:\Users\Jacob\Downloads\TicketingSystem_Student_copy\TicketingSystem_Student_copy\TicketingSystem\bin\Debug\netcoreapp3.1\TicketingSystem.exe
+C:\Users\Jacob\Downloads\TicketingSystem_Student_copy\TicketingSystem_Student_copy\TicketingSystem\bin\Debug\netcoreapp3.1\TicketingSystem.deps.json
+C:\Users\Jacob\Downloads\TicketingSystem_Student_copy\TicketingSystem_Student_copy\TicketingSystem\bin\Debug\netcoreapp3.1\TicketingSystem.runtimeconfig.json
+C:\Users\Jacob\Downloads\TicketingSystem_Student_copy\TicketingSystem_Student_copy\TicketingSystem\bin\Debug\netcoreapp3.1\TicketingSystem.runtimeconfig.dev.json
+C:\Users\Jacob\Downloads\TicketingSystem_Student_copy\TicketingSystem_Student_copy\TicketingSystem\bin\Debug\netcoreapp3.1\TicketingSystem.dll
+C:\Users\Jacob\Downloads\TicketingSystem_Student_copy\TicketingSystem_Student_copy\TicketingSystem\bin\Debug\netcoreapp3.1\TicketingSystem.pdb
+C:\Users\Jacob\Downloads\TicketingSystem_Student_copy\TicketingSystem_Student_copy\TicketingSystem\obj\Debug\netcoreapp3.1\TicketingSystem.csprojAssemblyReference.cache
+C:\Users\Jacob\Downloads\TicketingSystem_Student_copy\TicketingSystem_Student_copy\TicketingSystem\obj\Debug\netcoreapp3.1\TicketingSystem.frmOptions.resources
+C:\Users\Jacob\Downloads\TicketingSystem_Student_copy\TicketingSystem_Student_copy\TicketingSystem\obj\Debug\netcoreapp3.1\TicketingSystem.frmTicketing.resources
+C:\Users\Jacob\Downloads\TicketingSystem_Student_copy\TicketingSystem_Student_copy\TicketingSystem\obj\Debug\netcoreapp3.1\TicketingSystem.csproj.GenerateResource.cache
+C:\Users\Jacob\Downloads\TicketingSystem_Student_copy\TicketingSystem_Student_copy\TicketingSystem\obj\Debug\netcoreapp3.1\TicketingSystem.AssemblyInfoInputs.cache
+C:\Users\Jacob\Downloads\TicketingSystem_Student_copy\TicketingSystem_Student_copy\TicketingSystem\obj\Debug\netcoreapp3.1\TicketingSystem.AssemblyInfo.cs
+C:\Users\Jacob\Downloads\TicketingSystem_Student_copy\TicketingSystem_Student_copy\TicketingSystem\obj\Debug\netcoreapp3.1\TicketingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Downloads\TicketingSystem_Student_copy\TicketingSystem_Student_copy\TicketingSystem\obj\Debug\netcoreapp3.1\TicketingSystem.dll
+C:\Users\Jacob\Downloads\TicketingSystem_Student_copy\TicketingSystem_Student_copy\TicketingSystem\obj\Debug\netcoreapp3.1\TicketingSystem.pdb
+C:\Users\Jacob\Downloads\TicketingSystem_Student_copy\TicketingSystem_Student_copy\TicketingSystem\obj\Debug\netcoreapp3.1\TicketingSystem.genruntimeconfig.cache

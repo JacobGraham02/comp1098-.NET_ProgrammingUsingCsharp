@@ -1,0 +1,11 @@
+E:\WINTER 2021\COMP 1098 C#\Week 4 Code Example\BookProductMaintenance\bin\Debug\BookProductMaintenance.exe.config
+E:\WINTER 2021\COMP 1098 C#\Week 4 Code Example\BookProductMaintenance\bin\Debug\BookProductMaintenance.exe
+E:\WINTER 2021\COMP 1098 C#\Week 4 Code Example\BookProductMaintenance\bin\Debug\BookProductMaintenance.pdb
+E:\WINTER 2021\COMP 1098 C#\Week 4 Code Example\BookProductMaintenance\obj\Debug\BookProductMaintenance.csprojAssemblyReference.cache
+E:\WINTER 2021\COMP 1098 C#\Week 4 Code Example\BookProductMaintenance\obj\Debug\BookProductMaintenance.frmNewProduct.resources
+E:\WINTER 2021\COMP 1098 C#\Week 4 Code Example\BookProductMaintenance\obj\Debug\BookProductMaintenance.frmBookProductMainenance.resources
+E:\WINTER 2021\COMP 1098 C#\Week 4 Code Example\BookProductMaintenance\obj\Debug\BookProductMaintenance.Properties.Resources.resources
+E:\WINTER 2021\COMP 1098 C#\Week 4 Code Example\BookProductMaintenance\obj\Debug\BookProductMaintenance.csproj.GenerateResource.cache
+E:\WINTER 2021\COMP 1098 C#\Week 4 Code Example\BookProductMaintenance\obj\Debug\BookProductMaintenance.csproj.CoreCompileInputs.cache
+E:\WINTER 2021\COMP 1098 C#\Week 4 Code Example\BookProductMaintenance\obj\Debug\BookProductMaintenance.exe
+E:\WINTER 2021\COMP 1098 C#\Week 4 Code Example\BookProductMaintenance\obj\Debug\BookProductMaintenance.pdb

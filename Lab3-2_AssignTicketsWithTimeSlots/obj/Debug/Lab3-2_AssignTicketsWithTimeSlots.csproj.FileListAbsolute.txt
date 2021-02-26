@@ -1,0 +1,11 @@
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\Lab3-2_AssignTicketsWithTimeSlots\bin\Debug\Lab3-2_AssignTicketsWithTimeSlots.exe.config
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\Lab3-2_AssignTicketsWithTimeSlots\bin\Debug\Lab3-2_AssignTicketsWithTimeSlots.exe
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\Lab3-2_AssignTicketsWithTimeSlots\bin\Debug\Lab3-2_AssignTicketsWithTimeSlots.pdb
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\Lab3-2_AssignTicketsWithTimeSlots\obj\Debug\Lab3-2_AssignTicketsWithTimeSlots.csprojAssemblyReference.cache
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\Lab3-2_AssignTicketsWithTimeSlots\obj\Debug\Lab3_2_AssignTicketsWithTimeSlots.Properties.Resources.resources
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\Lab3-2_AssignTicketsWithTimeSlots\obj\Debug\Lab3-2_AssignTicketsWithTimeSlots.csproj.GenerateResource.cache
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\Lab3-2_AssignTicketsWithTimeSlots\obj\Debug\Lab3-2_AssignTicketsWithTimeSlots.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\Lab3-2_AssignTicketsWithTimeSlots\obj\Debug\Lab3-2_AssignTicketsWithTimeSlots.exe
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\Lab3-2_AssignTicketsWithTimeSlots\obj\Debug\Lab3-2_AssignTicketsWithTimeSlots.pdb
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\Lab3-2_AssignTicketsWithTimeSlots\obj\Debug\Lab3_2_AssignTicketsWithTimeSlots.frmOptions.resources
+C:\Users\Jacob\OneDrive\Desktop\LakeheadUniversity\Year1_Winter\Github_cloned_directories\C#_Repository\Lab3-2_AssignTicketsWithTimeSlots\obj\Debug\Lab3_2_AssignTicketsWithTimeSlots.frmTickets.resources
